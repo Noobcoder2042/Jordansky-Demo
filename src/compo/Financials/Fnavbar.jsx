@@ -41,7 +41,7 @@ const Fnavbar = () => {
           ))}
         </ul>
       </div>
-      <div className="w-[40%] ml-7 md:hidden sm:hidden xl:w-[30%] lg:hidden ">
+      <div className="w-[40%] ml-7  sm:hidden xl:w-[30%]  ">
         <hr className="bg-gray-100 h-[4px] mt-2"></hr>
       </div>
     </nav>
