@@ -10,7 +10,7 @@ const lineChartTitles = ["Line Chart 1", "Line Chart 2", "Line Chart 3"];
 
 const Home = () => {
   return (
-    <div className=" h-[110vh] 2xl:w-[1480px] xl:w-[1024px] lg:w-[1024px] md:w-[640px] sm:w-[460px] ml-[10vw] mr-[10vw] lg:ml-[7vw] lg:mr-[7vw] xl:ml-[7vw]  ">
+    <div className=" h-[100%] 2xl:w-[1480px] xl:w-[1024px] lg:w-[1024px] md:w-[640px] sm:w-[460px] ml-[10vw] mr-[10vw] lg:ml-[7vw] lg:mr-[7vw] xl:ml-[7vw]  ">
       <div>
         <Navbar />
         
